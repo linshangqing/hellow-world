@@ -1,2 +1,2 @@
 # hellow-world
-存储想法和资源
+测试GIT的功能
